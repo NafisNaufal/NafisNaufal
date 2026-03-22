@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisnaufal&label=Profile%20views&color=0e75b6&style=flat" alt="nafisnaufal" /> </p>
 
-- 🔭 I’m currently working on [IAIN Kerinci Website](https://github.com/lms-iain-kerinci/lms-frontend)
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **nafisnaufal1426@gmail.com**
