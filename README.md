@@ -1,7 +1,6 @@
-# Nafis Naufal Rahman
+# Anthropic
 
-Computer Science student at Universitas Brawijaya  
-Interested in Machine Learning, Data Science, and Web Development.
+Contact me for a project
 
 ## Tech Stack
 - Python
